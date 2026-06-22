@@ -67,8 +67,8 @@ RESTful backend API built with NestJS, PostgreSQL, JWT Authentication, and TypeO
 
 ## 📫 Connect With Me
 
-* LinkedIn: Your LinkedIn URL
-* Email: Your Email Address
+* LinkedIn: https://www.linkedin.com/in/sanyam-jain-995525291/
+* Email: jsanyam219@gmail.com
 
 ---
 
